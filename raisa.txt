@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy",
+        "type": "Dog",
+        "breed": "Golden Retriever",
+        "age": 3,
+        "description": "Friendly and playful, great with kids.",
+        "location": "Dhaka",
+        "adoption_status": "Available"
+    },
+    {
+        "id": 2,
+        "name": "Whiskers",
+        "type": "Cat",
+        "breed": "Persian",
+        "age": 2,
+        "description": "Loves cuddles and naps. Needs a calm environment.",
+        "location": "Chittagong",
+        "adoption_status": "Pending"
+    },
+    {
+        "id": 3,
+        "name": "Chirpy",
+        "type": "Bird",
+        "breed": "Parakeet",
+        "age": 1,
+        "description": "Chirpy and vibrant, loves to sing.",
+        "location": "Sylhet",
+        "adoption_status": "Available"
+    }
+]
